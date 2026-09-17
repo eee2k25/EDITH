@@ -11,3 +11,7 @@ venv/
 Edge*
 profile*
 cookies*
+logs/
+memory/
+backups/
+.env.example.save
