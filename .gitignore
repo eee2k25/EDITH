@@ -1,0 +1,13 @@
+.env
+*.key
+*.pem
+*.token
+node_modules/
+__pycache__/
+.venv/
+venv/
+*.log
+*.exe
+Edge*
+profile*
+cookies*

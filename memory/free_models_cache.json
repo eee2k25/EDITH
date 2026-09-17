@@ -1,0 +1,110 @@
+{
+  "fetched": 1789618716.7160833,
+  "models": [
+    {
+      "id": "thinkingmachines/inkling-small:free",
+      "context_length": 1048576,
+      "name": "Thinking Machines: Inkling Small (free)"
+    },
+    {
+      "id": "thinkingmachines/inkling:free",
+      "context_length": 1048576,
+      "name": "Thinking Machines: Inkling (free)"
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "context_length": 1000000,
+      "name": "NVIDIA: Nemotron 3.5 Lightning (free)"
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "context_length": 1000000,
+      "name": "NVIDIA: Nemotron 3 Ultra (free)"
+    },
+    {
+      "id": "dots-studio/dots-3-note-preview:free",
+      "context_length": 512000,
+      "name": "Dots Studio: Dots3-Note Preview (free)"
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash-vl:free",
+      "context_length": 262144,
+      "name": "inclusionAI: Ling 3.0 Flash VL (free)"
+    },
+    {
+      "id": "nex-agi/nex-n2.5-mini:free",
+      "context_length": 262144,
+      "name": "Nex AGI: Nex-N2.5-Mini (free)"
+    },
+    {
+      "id": "nex-agi/nex-n2.5-pro:free",
+      "context_length": 262144,
+      "name": "Nex AGI: Nex-N2.5-Pro (free)"
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash-sante:free",
+      "context_length": 262144,
+      "name": "inclusionAI: Ling 3.0 Flash Sante (free)"
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash-fin:free",
+      "context_length": 262144,
+      "name": "inclusionAI: Ling 3.0 Flash Fin (free)"
+    },
+    {
+      "id": "poolside/laguna-s-2.1:free",
+      "context_length": 262144,
+      "name": "Poolside: Laguna S 2.1 (free)"
+    },
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "context_length": 262144,
+      "name": "Poolside: Laguna XS 2.1 (free)"
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it:free",
+      "context_length": 262144,
+      "name": "Google: Gemma 4 26B A4B  (free)"
+    },
+    {
+      "id": "google/gemma-4-31b-it:free",
+      "context_length": 262144,
+      "name": "Google: Gemma 4 31B (free)"
+    },
+    {
+      "id": "nvidia/nemotron-3-super-120b-a12b:free",
+      "context_length": 262144,
+      "name": "NVIDIA: Nemotron 3 Super (free)"
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "context_length": 256000,
+      "name": "Cohere: North Mini Code (free)"
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "context_length": 256000,
+      "name": "NVIDIA: Nemotron 3 Nano Omni (free)"
+    },
+    {
+      "id": "openrouter/free",
+      "context_length": 200000,
+      "name": "Free Models Router"
+    },
+    {
+      "id": "nvidia/nemotron-3.5-content-safety:free",
+      "context_length": 128000,
+      "name": "NVIDIA: Nemotron 3.5 Content Safety (free)"
+    },
+    {
+      "id": "liquid/lfm-2.5-2.6b:free",
+      "context_length": 65536,
+      "name": "LiquidAI: LFM2.5-2.6B (free)"
+    },
+    {
+      "id": "z-ai/glm-5.2:free",
+      "context_length": 32768,
+      "name": "Z.ai: GLM 5.2 (free)"
+    }
+  ]
+}
