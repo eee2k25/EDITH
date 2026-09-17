@@ -1,2 +1,3 @@
 @echo off
-start powershell -Command "& {Set-Location 'C:\Users\Mekala\Documents\Jarvis'; .\Jarvis.exe}"
+cd /d "%~dp0"
+call EDITH.bat
